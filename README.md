@@ -64,7 +64,7 @@ Because privacy shouldn't be a premium feature.
 
 If you have any questions, feedback, feature requests, or need technical assistance, please contact us:
 
-* **Email:** [your@email.com](mailto:your@email.com)
+* **Email:** [mail.quickproducts@gmail.com](mailto:mail.quickproducts@gmail.com)
 
 ---
 
