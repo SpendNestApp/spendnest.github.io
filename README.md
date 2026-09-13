@@ -54,7 +54,7 @@ Because privacy shouldn't be a premium feature.
 
 ## 📲 Download
 
-**Download SpendNest – Offline Expense Tracker on the App Store**
+**Download SpendNest – Offline Expense Tracker on the Store**
 
 *[App Store]()*
 
