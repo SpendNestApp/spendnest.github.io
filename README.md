@@ -70,5 +70,4 @@ If you have any questions, feedback, feature requests, or need technical assista
 
 ## 📄 Legal
 
-* Privacy Policy
-* Terms of Use
+* [Privacy Policy](Privacy.html)
