@@ -58,8 +58,6 @@ Because privacy shouldn't be a premium feature.
 
 *[App Store]()*
 
-*[Play Store](https://play.google.com/store/apps/details?id=com.rkr.spendnest)*
-
 ---
 
 ## 🛠️ Support & Contact
