@@ -56,7 +56,9 @@ Because privacy shouldn't be a premium feature.
 
 **Download SpendNest – Offline Expense Tracker on the App Store**
 
-*(Replace with your App Store link.)*
+*[App Store]()*
+
+*[Play Store](https://play.google.com/store/apps/details?id=com.rkr.spendnest)*
 
 ---
 
